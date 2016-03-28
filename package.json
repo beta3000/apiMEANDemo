@@ -1,0 +1,24 @@
+{
+  "name": "reader-api",
+  "version": "1.0.0",
+  "description": "Demo api Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beta3000/apiMEANDemo.git"
+  },
+  "author": "beta3000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beta3000/apiMEANDemo/issues"
+  },
+  "homepage": "https://github.com/beta3000/apiMEANDemo#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}
